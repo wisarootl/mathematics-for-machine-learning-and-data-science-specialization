@@ -332,3 +332,5 @@ cython_debug/
 
 # ruff
 .ruff_cache/
+
+expected_cov_mat.npy
