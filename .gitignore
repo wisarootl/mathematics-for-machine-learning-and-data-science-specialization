@@ -334,3 +334,4 @@ cython_debug/
 .ruff_cache/
 
 expected_cov_mat.npy
+c3-probability-and-statistics/w1/lab-3/data/*.csv

@@ -27,6 +27,7 @@ jax = "^0.4.26"
 jaxlib = "^0.4.26"
 ipympl = "^0.9.3"
 seaborn = "^0.13.2"
+nltk = "^3.8.1"
 
 [build-system]
 requires = ["poetry-core"]
